@@ -1,1 +1,2 @@
-# leetcode-study01
+# leetcode
+- [ ] LCR 138. 有效数字
